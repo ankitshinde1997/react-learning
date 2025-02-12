@@ -133,7 +133,7 @@
 import { useState } from 'react'
 import { Tabbutton } from './component/tabbutton'
 import { example } from './data';
-let content="please select on the button";
+// let content="please select on the button";
 
 function App() {
   const [count, setCount] = useState(0)
